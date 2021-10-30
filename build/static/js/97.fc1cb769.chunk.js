@@ -1,0 +1,2 @@
+(self["webpackJsonpsyzoj-ng-app"]=self["webpackJsonpsyzoj-ng-app"]||[]).push([[97],{1540:function(a,e,n){a.exports={header:"header--3EVlw",headerDropdown:"headerDropdown--eJF-l",table:"table--35wjG",pagination:"pagination--3LFOd",chartContainer:"chartContainer--1zlMb"}}}]);
+//# sourceMappingURL=97.fc1cb769.chunk.js.map

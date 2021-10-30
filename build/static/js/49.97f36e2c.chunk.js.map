@@ -1,0 +1,1 @@
+{"version":3,"sources":["interfaces/ProblemType.ts"],"names":["ProblemType"],"mappings":"qHAAO,IAAKA,EAAZ,kC,SAAYA,K,0BAAAA,E,0BAAAA,E,6BAAAA,M","file":"static/js/49.97f36e2c.chunk.js","sourcesContent":["export enum ProblemType {\n  Traditional = \"Traditional\",\n  Interaction = \"Interaction\",\n  SubmitAnswer = \"SubmitAnswer\"\n}\n"],"sourceRoot":""}

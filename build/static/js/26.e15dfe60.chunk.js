@@ -1,0 +1,2 @@
+(self["webpackJsonpsyzoj-ng-app"]=self["webpackJsonpsyzoj-ng-app"]||[]).push([[26],{1340:function(p,n,s){p.exports={pagination:"pagination--1ohuS",simple:"simple--XqlGw"}}}]);
+//# sourceMappingURL=26.e15dfe60.chunk.js.map

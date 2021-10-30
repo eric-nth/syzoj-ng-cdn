@@ -1,0 +1,2 @@
+(self["webpackJsonpsyzoj-ng-app"]=self["webpackJsonpsyzoj-ng-app"]||[]).push([[41],{755:function(e,n,t){"use strict";var a=t(29),c=t(1),r=t(0),s=t.n(r).a.memo((function(e){return Object(c.jsx)("a",Object(a.a)(Object(a.a)({},e),{},{ref:function(e){return e&&e.setAttribute("href","javascript:void(0)")},children:e.children}))}));n.a=s}}]);
+//# sourceMappingURL=41.d4d2d29d.chunk.js.map

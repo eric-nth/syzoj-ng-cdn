@@ -1,0 +1,7 @@
+/*!
+ * markdown-it-regexp
+ * Copyright (c) 2014 Alex Kocharin
+ * MIT Licensed
+ */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */

@@ -1,0 +1,2 @@
+(self["webpackJsonpsyzoj-ng-app"]=self["webpackJsonpsyzoj-ng-app"]||[]).push([[131],{1096:function(o,e,t){o.exports={header:"header--2-FS1",segment:"segment--2PECa",search:"search--23b9R",table:"table--2g1RE",columnBio:"columnBio--19cCs",noWrap:"noWrap--2c9Im",hitokoto:"hitokoto--2x2Pr",hitokotoFrom:"hitokotoFrom--2PmvT",latestProblemsDate:"latestProblemsDate--1dIUe",countdown:"countdown--2c1Nc",event:"event--3MjRa",time:"time--24lk6"}}}]);
+//# sourceMappingURL=131.bec5d43b.chunk.js.map

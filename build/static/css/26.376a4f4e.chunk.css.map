@@ -1,0 +1,1 @@
+{"version":3,"sources":["26.376a4f4e.chunk.css"],"names":[],"mappings":"AAGA,gEACE,YACF,CACA,sDACE,sBACF","file":"26.376a4f4e.chunk.css","sourcesContent":[".pagination--1ohuS .item {\n  outline: none;\n}\n.pagination--1ohuS.simple--XqlGw .item {\n  outline: none;\n}\n.pagination--1ohuS.simple--XqlGw .item[type=pageItem] {\n  display: none !important;\n}\n\n"]}

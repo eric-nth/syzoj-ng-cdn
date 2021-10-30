@@ -1,0 +1,2 @@
+(self["webpackJsonpsyzoj-ng-app"]=self["webpackJsonpsyzoj-ng-app"]||[]).push([[84],{864:function(n,t,u){"use strict";u.d(t,"a",(function(){return r}));var e=u(179);function r(n){var t=function(n){return/[\u3400-\u9FBF]/.test(n)},u=function(n){return/[a-zA-Z0-9@/*&%#]/.test(n)};return Object(e.a)(n).map((function(e,r){return(r>0&&t(n[r])&&u(n[r-1])?" ":"")+e+(r<n.length-1&&t(n[r])&&u(n[r+1])?" ":"")})).join("")}}}]);
+//# sourceMappingURL=84.4d46c556.chunk.js.map

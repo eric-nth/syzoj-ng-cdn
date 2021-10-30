@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Pagination.module.less"],"names":["module","exports"],"mappings":"yGACAA,EAAOC,QAAU,CAAC,WAAa,oBAAoB,OAAS","file":"static/js/26.e15dfe60.chunk.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"pagination\":\"pagination--1ohuS\",\"simple\":\"simple--XqlGw\"};"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/auth/register/index.ts"],"names":["lazy"],"mappings":"uHAAA,mBAEeA,uBAAK,kBAAM","file":"static/js/147.f576ec35.chunk.js","sourcesContent":["import { lazy } from \"navi\";\n\nexport default lazy(() => import(\"./RegisterPage\"));\n"],"sourceRoot":""}
